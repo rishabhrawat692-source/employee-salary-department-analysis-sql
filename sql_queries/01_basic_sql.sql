@@ -1,7 +1,6 @@
 -- Employee Salary & Department Analysis
 -- Basic SQL Queries
--- Employee Salary & Department Analysis
--- Basic SQL Queries
+
 
 -- Q1. Display all employees
 SELECT *
