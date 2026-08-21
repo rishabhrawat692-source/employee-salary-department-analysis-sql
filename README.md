@@ -62,3 +62,13 @@ Contains department information such as:
 - How are employees categorized by salary?
 - Who are the highest-paid employees?
 - Who are the top 3 highest-paid employees in each department?
+- 
+## Key Business Insights
+Based on the SQL analysis:
+* The company has **10 employees**.
+* The overall average employee salary is **₹61,900**.
+* **Department 4** has the highest average salary at **₹80,000**.
+* **Department 3** has the lowest average salary at **₹48,000**.
+* **Delhi** has the highest number of employees with **3 employees**.
+* **Mumbai** and **Bangalore** have **2 employees each**.
+* **Varanasi, Pune, and Jaipur** have **1 employee each**.
