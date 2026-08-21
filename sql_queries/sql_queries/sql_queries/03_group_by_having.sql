@@ -1,0 +1,2 @@
+-- Employee Salary & Department Analysis
+-- GROUP BY & HAVING Queries
