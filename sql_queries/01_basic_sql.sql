@@ -1,0 +1,2 @@
+-- Employee Salary & Department Analysis
+-- Basic SQL Queries
